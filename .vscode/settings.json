@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\PC\\data-analysis-project\\project_sprint_7\\Scripts\\python.exe",
+  "jupyter.kernels": [
+    {
+      "label": "data-analysis-project",
+      "path": "C:\\Users\\PC\\data-analysis-project\\project_sprint_7\\Scripts\\python.exe"
+    }
+  ]
+}
