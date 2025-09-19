@@ -18,3 +18,5 @@ Ejecuta la aplicación desde la terminal en el directorio del proyecto con el co
 streamlit run app.py
 
 La aplicación se abrirá automáticamente en tu navegador predeterminado.
+
+Available at your primary URL https://data-analysis-project-3.onrender.com
